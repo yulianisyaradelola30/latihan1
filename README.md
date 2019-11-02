@@ -56,7 +56,6 @@ git clone
 34. Kegunaan file README.md, Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka
 35. dapat menggunakan sebuah file yang bernama README.md Pada file tersebut kita dapat membuat dokumentasi awal dari setiap projec
 
-![URL](Screenshot/Screenshot%20(1).png)
 ![URL](Screenshot/git%20version.png)
 ![URL](Screenshot/git%20config.png)
 ![URL](Screenshot/git%20mkdir.png)
