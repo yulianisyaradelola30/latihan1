@@ -57,11 +57,11 @@ git clone
 35. dapat menggunakan sebuah file yang bernama README.md Pada file tersebut kita dapat membuat dokumentasi awal dari setiap projec
 
 ![URL](Screenshot/Screenshot%20(1).png)
-![URL](Screenshot/git%version.png)
-![URL](Screenshot/git%config.png)
-![URL](Screenshot/git%mkdir.png)
-![URL](Screenshot/git%init.png)
-![URL](Screenshot/git%new%repository.png)
-![URL](Screenshot/git%server.png)
-![URL](Screenshot/git%remote%add%origin.png)
+![URL](Screenshot/git%20version.png)
+![URL](Screenshot/git%20config.png)
+![URL](Screenshot/git%20mkdir.png)
+![URL](Screenshot/git%20init.png)
+![URL](Screenshot/git%20new%20repository.png)
+![URL](Screenshot/git%20server.png)
+![URL](Screenshot/git%20remote%20add%20origin.png)
 
