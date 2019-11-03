@@ -5,7 +5,7 @@
 download git
 5.Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka CMD atau PowerShell, kemudian
 git version
-
+![download git](https://user-images.githubusercontent.com/57038763/68082351-4466c200-fe4e-11e9-8051-f86588d78a7a.png)
 6. Menambahkan Global Config,Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 7.konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository. apabila belum dilakukan konfigurasi akan terjadi
 8.kegagalan saat menjalankan perintah *git commit Config Global Repository
