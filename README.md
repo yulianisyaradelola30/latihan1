@@ -31,12 +31,11 @@ GIT README
 gunakan perintah git add. File README.md berhasil ditambahkan. file add readme Commit (Menyimpan perubahan ke database)
 20. Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 21. Perubahan berhasil disimpan. $ git commit -m “File pertama"
-![download (7)](https://user-images.githubusercontent.com/57038763/68082832-1f754d80-fe54-11e9-91f7-e697decdf22a.jpg)
+![Screenshot (7)](https://user-images.githubusercontent.com/57038763/68082849-66fbd980-fe54-11e9-85fa-e7cba3d733e0.png)
 22. Membuat repository server, server reopsitory yang akan kita gunakan adalah http://github.com
 23. Anda harus membuat akun terlebih dahulu.Pada laman github, klik tombol start a project, atau Dari menu (icon +) klik New
 Repository
 github resipotry Membuat repository server
-
 24. Isi nama repositorynya, misal: labpy1. lalu klik tombol Create repository git labpy1
 25. Menambahkan Remote Repository, Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap
 26.erubahan pada local repository, sehingga dapat diakses oleh banyak user.
